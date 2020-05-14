@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/services/ServiceInscrireEtudiant.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/models/Classe.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/dao/EtudiantDao.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/gestion_profs_etudiants/Main.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/controllers/InscrireEtudiantController.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/controllers/AjouterProfAffecterClassesController.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/controllers/AjouterListerClassesController.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/services/ServicePersonneListe.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/services/ServiceAjouterProfesseur.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/dao/ProfesseurDao.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/models/Personne.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/services/IPersonne.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/dao/MysqlDB.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/models/Inscription.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/models/Etudiant.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/services/ServiceListerProfesseur.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/controllers/ListeProfsController.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/services/ServiceAjouterListerClasse.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/dao/PersonneDao.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/dao/IDao.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/models/Details.java</file>
+            <file>file:/C:/Users/Spectre/Documents/NetBeansProjects/Gestion_Profs_Etudiants/src/models/Professeur.java</file>
+        </group>
+    </open-files>
+</project-private>
